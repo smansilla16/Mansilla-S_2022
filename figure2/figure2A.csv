@@ -1,0 +1,23 @@
+Temperature;Substrate;Replicate;Specific activity (U/mg)
+25;Citrate;1;6.318133
+37;Citrate;1;9.929267
+50;Citrate;1;15.79763
+25;Citrate;2;6.382367
+37;Citrate;2;11.3627
+50;Citrate;2;16.24107
+25;Citrate;3;6.6639
+25;Isocitrate;1;8.595033
+37;Isocitrate;1;15.6534
+50;Isocitrate;1;20.32847
+25;Isocitrate;2;9.962233
+37;Isocitrate;2;13.8318
+50;Isocitrate;2;19.30283
+25;Isocitrate;3;8.826433
+25;cis-Aconitate;1;17.87877
+37;cis-Aconitate;1;28.35267
+50;cis-Aconitate;1;43.03697
+25;cis-Aconitate;2;16.92153
+37;cis-Aconitate;2;21.9436
+50;cis-Aconitate;2;40.4235
+25;cis-Aconitate;3;18.2885
+37;cis-Aconitate;3;24.42857
